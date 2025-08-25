@@ -1,0 +1,1 @@
+Este es un repositorio donde realizaremos pruebas de conflictos
